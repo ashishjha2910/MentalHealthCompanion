@@ -33,7 +33,7 @@ A full-stack Mental Health Companion web application designed to help users trac
 ---
 
 ## 📂 Project Structure
-
+```
 MentalHealthCompanion/
 │
 ├── backend/                     # Spring Boot backend
